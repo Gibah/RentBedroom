@@ -1,0 +1,16 @@
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\bin\Debug\net5.0\RentBedRoom.exe
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\bin\Debug\net5.0\RentBedRoom.deps.json
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\bin\Debug\net5.0\RentBedRoom.runtimeconfig.json
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\bin\Debug\net5.0\RentBedRoom.runtimeconfig.dev.json
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\bin\Debug\net5.0\RentBedRoom.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\bin\Debug\net5.0\ref\RentBedRoom.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\bin\Debug\net5.0\RentBedRoom.pdb
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\obj\Debug\net5.0\RentBedRoom.csproj.AssemblyReference.cache
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\obj\Debug\net5.0\RentBedRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\obj\Debug\net5.0\RentBedRoom.AssemblyInfoInputs.cache
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\obj\Debug\net5.0\RentBedRoom.AssemblyInfo.cs
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\obj\Debug\net5.0\RentBedRoom.csproj.CoreCompileInputs.cache
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\obj\Debug\net5.0\RentBedRoom.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\obj\Debug\net5.0\ref\RentBedRoom.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\obj\Debug\net5.0\RentBedRoom.pdb
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao6\Demos\RentBedRoom\RentBedRoom\obj\Debug\net5.0\RentBedRoom.genruntimeconfig.cache
